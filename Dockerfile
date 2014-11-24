@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:centos6
 MAINTAINER Dan Burke <dburke@addictmud.org>
 RUN yum update -y && yum clean all
 RUN yum install -y wget && yum clean all
