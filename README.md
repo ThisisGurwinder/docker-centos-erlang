@@ -1,2 +1,2 @@
 
-Simple container with Erlang installed on CentOS 6
+Simple container with Erlang 18, installed on CentOS 6
